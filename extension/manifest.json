@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "404 — Page Abducted",
+  "version": "0.1.1",
+  "description": "A UFO that abducts words, images, and your cursor from real websites. Built with vanilla JavaScript and Canvas.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Abduct this page (click again to close)"
+  }
+}

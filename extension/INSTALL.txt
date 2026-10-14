@@ -1,0 +1,16 @@
+404 — PAGE ABDUCTED
+
+1. Extract this ZIP.
+2. Open chrome://extensions in desktop Chrome.
+3. Enable Developer mode.
+4. Click Load unpacked and select the folder containing manifest.json.
+5. Open a regular website and click the extension in the puzzle menu.
+
+Restart: replay. Select: click a word/image. Cursor: chase your pointer.
+Finale: abduct the whole page. Restore: undo. Cinema: hide controls.
+Exit cinema or Escape: bring controls back. X: close and restore.
+
+Browser-protected pages are unsupported. Refreshing removes the effect.
+First experimental version; browser compatibility testing is pending.
+
+Source and instructions: https://github.com/Berserk-hub150/page-abducted
